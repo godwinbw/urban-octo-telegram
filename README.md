@@ -1,4 +1,4 @@
-# **Week 1 Challenge**
+# **Bryan Godwin - Week 1 Challenge**
 
 ## **HTML CSS Git Challenge: Code Refactor**
 
@@ -37,10 +37,14 @@
         WHEN I view the title element
         THEN I find a concise, descriptive title
 
-### **Refactored code repository**
+### **Refactored code - repository**
 
-https://github.com/godwinbw/urban-octo-telegram
+<https://github.com/godwinbw/urban-octo-telegram>
 
-### **Refactored code live link**
+### **Refactored code - live link**
 
-https://godwinbw.github.io/urban-octo-telegram/Develop
+<https://godwinbw.github.io/urban-octo-telegram/Develop>
+
+### **Refactored code - screenshot**
+
+<img src="./screenshot_finished_challenge.png" style="width: 50%; height=auto;">
